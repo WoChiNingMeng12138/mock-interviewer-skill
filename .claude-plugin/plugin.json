@@ -1,0 +1,13 @@
+{
+    "name": "mock-interviewer-skill",
+    "version": "1.0.0",
+    "description": "A company-tailored mock interviewer: researches the target company, interviews you one question at a time based on your role and resume, then scores your performance with improvement advice.",
+    "author": {
+      "name": "WoChiNingMeng12138",
+      "url": "https://github.com/WoChiNingMeng12138"
+    },
+    "repository": "https://github.com/WoChiNingMeng12138/mock-interviewer-skill",
+    "license": "MIT",
+    "keywords": ["interview", "mock-interview", "job-search", "career", "leetcode", "behavioral-interview"],
+    "skills": ["./mock-interviewer"]
+  }

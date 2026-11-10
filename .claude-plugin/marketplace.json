@@ -1,0 +1,14 @@
+{
+    "name": "mock-interviewer-skill",
+    "description": "Mock Interviewer: practice company-tailored job interviews with Claude.",
+    "owner": {
+      "name": "WoChiNingMeng12138"
+    },
+    "plugins": [
+      {
+        "name": "mock-interviewer-skill",
+        "source": "./",
+        "description": "A company-tailored mock interviewer that researches the company, interviews you one question at a time, and scores your performance."
+      }
+    ]
+  }
